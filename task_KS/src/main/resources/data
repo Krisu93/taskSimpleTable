@@ -1,0 +1,5 @@
+INSERT INTO event_details (date_evt, quality, units, value) VALUES('2021-01-01 15:15:01','Good','kg', 1.5);
+INSERT INTO event_details (date_evt, quality, units, value) VALUES('2021-01-01 15:30:01', 'Bad', 'kg', 1.7);
+INSERT INTO event_details (date_evt, quality, units, value) VALUES('2021-01-01 15:45:01', 'Good', 'kg', 0.2);
+INSERT INTO event_details (date_evt, quality, units, value) VALUES('2021-01-01 16:00:01', 'Bad', 'g', 125.25);
+INSERT INTO event_details (date_evt, quality, units, value) VALUES('2021-01-01 16:10:01', 'Good', 'g', 756.07);
