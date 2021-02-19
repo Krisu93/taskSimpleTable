@@ -12,7 +12,7 @@ Return rest:
 - REST /getGoodValues - Return the series of good values between two date/times
 - REST /getInterValues - Return a series of the interpolated values at X minute intervals between two date/times
 
-The project was created using Hibernate/ JPA and MSSQL Server
+The project was created using Java Spring Boot, Hibernate/ JPA and MSSQL Server
 
 To run the project, change the configuration to MSSQL Server in the application.properties file.
 
